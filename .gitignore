@@ -1,0 +1,18 @@
+# --- SYSTEM ---
+session.lock
+uid.dat
+*.log
+logs/
+crash-reports/
+
+# --- CACHE ---
+stats/
+advancements/
+poi/
+
+# --- MODS ---
+journeyMap/
+xaeroWorldMap/
+
+# --- SAFETY ---
+!generated/minecraft/structures/.gitkeep
